@@ -1,16 +1,13 @@
-## Hi there 👋
+### Salut 👋, je suis [Votre Nom ici]!
 
-<!--
-**Jauresacs/Jauresacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Je suis développeur spécialisé en [Votre Spécialité] basé à [Votre Lieu].
 
-Here are some ideas to get you started:
+🔭 Je travaille actuellement sur [Nom du Projet].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 J'apprends actuellement [Technologie ou Sujet].
+
+💬 Demandez-moi à propos de [Sujet Technique].
+
+📫 Comment me joindre: [Votre Email]
+
+⚡ Fun fact: [Un fait amusant sur vous].
