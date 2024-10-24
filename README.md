@@ -1,13 +1,19 @@
-### Salut 👋, je suis [Votre Nom ici]!
+# Bienvenue sur mon GitHub!
 
-👨‍💻 Je suis développeur spécialisé en [Votre Spécialité] basé à [Votre Lieu].
+## 👋 Hi, I'm Jaures Azandossessi!
 
-🔭 Je travaille actuellement sur [Nom du Projet].
+📚 I am currently a student at Epitech Nantes, pursuing a three-year professional track in Systems and Networks Architecture / Software Architecture.
 
-🌱 J'apprends actuellement [Technologie ou Sujet].
+🔥 **Passionate About Programming**: I have worked with many programming languages. My favorites include:
+- **C++**: For its unique approach to object-oriented programming
+- **Java**, **C#**, **Ruby**, **TypeScript**, **HTML**, **CSS**, and **JavaScript**
 
-💬 Demandez-moi à propos de [Sujet Technique].
+🌐 Recently, I worked on a school project involving full-stack development with:
+- **Backend**: Predominantly C# leveraging the encapsulation principles and tools provided by ASP.NET Core.
+- This project was focused on creating a job board, which involved managing user data for both candidates and recruiters, data management, saving, and password hashing.
 
-📫 Comment me joindre: [Votre Email]
+🚀 **Looking Forward**: I am excited about where I am right now and am looking forward to continuously improving and reaching the top of my form. I greatly enjoy self-directed learning; it's challenging and truly enhances your learning experience.
 
-⚡ Fun fact: [Un fait amusant sur vous].
+👀 **Explore My Projects**: Feel free to take your time browsing through my projects here on GitHub.
+
+### Welcome to my GitHub profile!
